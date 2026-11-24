@@ -1,0 +1,1 @@
+# adas-spring-crud-simplis
